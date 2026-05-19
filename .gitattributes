@@ -1,1 +1,4 @@
-Similarity & Classification Project/doc/* linguist-documentation
+"Similarity & Classification Project/doc/*" linguist-documentation
+*.html linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation

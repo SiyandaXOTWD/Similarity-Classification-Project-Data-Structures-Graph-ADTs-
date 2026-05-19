@@ -25,6 +25,8 @@ The application assists users through two primary machine learning and data stru
 2. Similarity Searching: Once a road is evaluated, the system uses distance-sorting metrics to scan the existing database network, surfacing a list of other roads that share similar structural deterioration characteristics. This helps prioritize scaling repair operations across similarly impacted zones.
 
 📂 Repository Directory Tree
+'''text
+[Directory Tree]
 ├── Similarity & classification Project/
 │   ├── .settings/                  # Eclipse project-specific environment configuration settings
 │   ├── bin/                        # Compiled Java bytecode class outputs
